@@ -35,7 +35,7 @@
             android:layout_marginStart="@dimen/card_title_margin"
             android:layout_marginTop="@dimen/card_title_margin_top"
             android:text="@string/main_card_title"
-            android:textColor="@color/black" />
+            android:textColor="@color/white" />
 
         <TextView
             android:id="@+id/tv_card_main1_subtitle"
@@ -56,7 +56,7 @@
             android:layout_below="@id/tv_card_main1_subtitle"
             android:layout_margin="@dimen/card_button_margin"
             android:text="@string/main_card_button_1"
-            android:textColor="@color/colorAccent" />
+            android:textColor="@color/green_primary" />
 
         <Button
             android:id="@+id/btn_card_main1_action2"
@@ -68,7 +68,7 @@
             android:layout_marginTop="@dimen/card_button_margin"
             android:layout_toEndOf="@id/btn_card_main1_action1"
             android:text="@string/main_card_button_2"
-            android:textColor="@color/colorAccent" />
+            android:textColor="@color/green_primary" />
 
     </RelativeLayout>
 </android.support.v7.widget.CardView>
