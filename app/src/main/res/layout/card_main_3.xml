@@ -67,6 +67,7 @@
             android:paddingStart="@dimen/card_title_margin">
 
             <ImageView
+                style="@style/tintbutton"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_vertical"
@@ -74,6 +75,7 @@
                 android:src="@drawable/ic_star_border_black_24dp" />
 
             <ImageView
+                style="@style/tintbutton"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_vertical"
@@ -81,6 +83,7 @@
                 android:src="@drawable/ic_star_border_black_24dp" />
 
             <ImageView
+                style="@style/tintbutton"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_vertical"
@@ -88,6 +91,7 @@
                 android:src="@drawable/ic_star_border_black_24dp" />
 
             <ImageView
+                style="@style/tintbutton"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_vertical"
@@ -95,6 +99,7 @@
                 android:src="@drawable/ic_star_border_black_24dp" />
 
             <ImageView
+                style="@style/tintbutton"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_vertical"
@@ -103,6 +108,7 @@
         </LinearLayout>
 
         <ImageView
+            style="@style/tintbutton"
             android:id="@+id/img_card_main_3"
             android:layout_width="96dp"
             android:layout_height="match_parent"
